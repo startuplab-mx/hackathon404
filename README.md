@@ -3,7 +3,7 @@ Hackathon 404: Threath not found
 | Team               | Repositories       |
 |--------------------|--------------------|
 | HCKMX26-1776750078 | [HCKMX26-1776750078](https://github.com/startuplab-mx/HCKMX26-1776750078) |
-| HCKMX26-1776750033 🏅 Winner |  [HCKMX26-1776750033](https://github.com/startuplab-mx/HCKMX26-1776750033) | 
+| HCKMX26-1776750033 |  [HCKMX26-1776750033](https://github.com/startuplab-mx/HCKMX26-1776750033) | 
 | HCKMX26-1776749813 | [HCKMX26-1776749813](https://github.com/startuplab-mx/HCKMX26-1776749813) |
 | HCKMX26-1776737091 | [HCKMX26-1776737091](https://github.com/startuplab-mx/HCKMX26-1776737091) |
 | HCKMX26-1776732339 | [HCKMX26-1776732339](https://github.com/startuplab-mx/HCKMX26-1776732339) |
